@@ -3,7 +3,9 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>projet simple</title>
+    <h1>
+  <strong> <mark>  projet simple </mark>   </strong>  
+ </h1>
 </head>
 
 <body>
