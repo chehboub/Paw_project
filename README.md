@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Marquage du texte</title>
+    <title>projet simple</title>
 </head>
 
 <body>
